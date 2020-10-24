@@ -1,0 +1,23 @@
+{
+  "name": "beautify-logger",
+  "version": "1.0.0",
+  "description": "log formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakbrahmania/beautify-logger.git"
+  },
+  "keywords": [
+    "log",
+    "beautify"
+  ],
+  "author": "deepak-brahmania",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepakbrahmania/beautify-logger/issues"
+  },
+  "homepage": "https://github.com/deepakbrahmania/beautify-logger#readme"
+}
