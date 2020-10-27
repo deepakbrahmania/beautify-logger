@@ -1,5 +1,5 @@
 {
-  "name": "beautify-logger",
+  "name": "@brahmand/beautify-logger",
   "version": "1.0.0",
   "description": "log formatter",
   "main": "index.js",
